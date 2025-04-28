@@ -1,0 +1,15 @@
+Syringe,10ml sterile,100
+Bandage,5m roll,50
+Surgical Gloves,size M,200
+Paracetamol Tablets,500mg 100 tablets,30
+Cotton Balls,100g pack,40
+Blood Pressure Monitor,Standard monitor,10
+Stethoscope,Standard,15
+IV Drip Set,Standard,25
+Gauze Pads,10cm x 10cm,60
+Alcohol Swabs,box of 100,80
+Thermometer,Digital,20
+Surgical Mask,Disposable,500
+Oxygen Cylinder,5L,5
+Wheelchair,Standard,8
+Ultrasound Gel,250ml,30
